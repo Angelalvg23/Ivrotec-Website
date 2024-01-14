@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8a49c884.css",
+    "main.js": "/static/js/main.5e83a371.js",
+    "static/media/adi-goldstein-EUsVwEOsblE-unsplash.jpg": "/static/media/adi-goldstein-EUsVwEOsblE-unsplash.2dda27396b42f059752e.jpg",
+    "static/media/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg": "/static/media/alexandre-debieve-FO7JIlwjOtU-unsplash.04f65620805223b2bdf3.jpg",
+    "static/media/mech-mind-robotics-sTzb90A1Abs-unsplash.jpg": "/static/media/mech-mind-robotics-sTzb90A1Abs-unsplash.e3d5f52a560b26605982.jpg",
+    "static/media/mech-mind-robotics-UeROrPm4Kcs-unsplash.jpg": "/static/media/mech-mind-robotics-UeROrPm4Kcs-unsplash.40123426fae036471c13.jpg",
+    "static/media/backgroundimg.jpg": "/static/media/backgroundimg.6f6942470070b9879883.jpg",
+    "static/media/maquina.png": "/static/media/maquina.dcbfb02ea358969bed78.png",
+    "static/media/icon.png": "/static/media/icon.46d6e22f7f605c6d0f7a.png",
+    "static/media/electicon.jpg": "/static/media/electicon.db5c9a16aef4f2b03075.jpg",
+    "index.html": "/index.html",
+    "main.8a49c884.css.map": "/static/css/main.8a49c884.css.map",
+    "main.5e83a371.js.map": "/static/js/main.5e83a371.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a49c884.css",
+    "static/js/main.5e83a371.js"
+  ]
+}
